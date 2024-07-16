@@ -12,7 +12,7 @@ This repository contains the Rust/Anchor smart contract for Pump.fun. The smart 
    The create_raydium_pool function allows users to create a new pool on the Raydium platform. This pool will facilitate decentralized trading and liquidity provision.
 
 ### Getting Started
-1. git clone https://github.com/yourusername/pump-fun-smart-contract.git
+1. git clone https://github.com/2enology/pump-fun-smart-contract.git
 2. cd pump-fun-smart-contract
 3. cargo build
 4. anchor deploy
