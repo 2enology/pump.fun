@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/24c9250c-d456-4967-85b5-c0e0cce697a3)
 
 # Pump.fun Smart Contract
-The Pump.fun Smart Contract is the Rust/Anchor smart contract for Pump.fun. The smart contract facilitates various decentralized finance (DeFi) functionalities, including adding virtual Liquidity Provider (LP) tokens, removing LP tokens, and creating Raydium Pools.
+The Pump.fun Smart Contract is the Rust/Anchor smart contract for Pump.fun. The pump.fun smart contract facilitates various decentralized finance (DeFi) functionalities, including adding virtual Liquidity Provider (LP) tokens, removing LP tokens, and creating Raydium Pools.
 
 ## Functions
 1. Add Virtual LP
@@ -12,7 +12,7 @@ The Pump.fun Smart Contract is the Rust/Anchor smart contract for Pump.fun. The 
    The create_raydium_pool function allows users to create a new pool on the Raydium platform. This pool will facilitate decentralized trading and liquidity provision.
 
 ### Getting Started
-1. git clone https://github.com/2enology/pump.fun-contract-sol.git
-2. cd pump-fun-smart-contract
+1. git clone https://github.com/2enology/pump.fun.git
+2. cd pump.fun
 3. cargo build
 4. anchor deploy
