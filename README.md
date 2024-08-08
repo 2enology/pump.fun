@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/24c9250c-d456-4967-85b5-c0e0cce697a3)
 
 # Pump.fun Smart Contract
-This repository contains the Rust/Anchor smart contract for Pump.fun. The smart contract facilitates various decentralized finance (DeFi) functionalities, including adding virtual Liquidity Provider (LP) tokens, removing LP tokens, and creating Raydium Pools.
+The Pump.fun Smart Contract is the Rust/Anchor smart contract for Pump.fun. The smart contract facilitates various decentralized finance (DeFi) functionalities, including adding virtual Liquidity Provider (LP) tokens, removing LP tokens, and creating Raydium Pools.
 
 ## Functions
 1. Add Virtual LP
